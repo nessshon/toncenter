@@ -43,8 +43,8 @@ pip install toncenter
 
 ## Documentation
 
-[Documentation](https://toncenter.ness.su/) — API reference, guides, and streaming examples.  
-[llms.txt](https://toncenter.ness.su/llms.txt) — machine-readable docs for AI tools.
+[Documentation](https://toncenter.ness.uz/) — API reference, guides, and streaming examples.  
+[llms.txt](https://toncenter.ness.uz/llms.txt) — machine-readable docs for AI tools.
 
 ## Examples
 

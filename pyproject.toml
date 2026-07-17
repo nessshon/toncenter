@@ -50,7 +50,7 @@ toncenter = "toncenter.cli:main"
 
 [project.urls]
 Homepage = "https://github.com/nessshon/toncenter/"
-Documentation = "https://toncenter.ness.su/"
+Documentation = "https://toncenter.ness.uz/"
 
 [tool.setuptools.packages.find]
 include = ["toncenter", "toncenter.*"]
